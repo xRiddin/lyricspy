@@ -8,4 +8,5 @@ title = db["title"]
 artist = db["author"]
 print(title + " by " + artist)
 print("")
+
 print("🎼" + lyrics)
